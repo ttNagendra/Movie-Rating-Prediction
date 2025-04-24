@@ -76,6 +76,3 @@ jupyter notebook
 - matplotlib
 - seaborn
 - joblib
-
-## License
-MIT License
